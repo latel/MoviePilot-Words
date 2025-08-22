@@ -1,3 +1,4 @@
+## https://hdarea.club/details.php?id=112126&hit=1 ##
 Sans élytres => Sans élytres && S01 <> 2025 >> EP+1
 Poursuite chez multiprix => Poursuite chez Multiprix && S01 <> 2025 >> EP+48
 Bzzapping => Bzzapping && S01 <> 2025 >> EP+3
@@ -96,3 +97,6 @@ Coup de soleil => Coup de soleil && S01 <> 2025 >> EP-18
 Cocciland => Cocciland && S01 <> 2025 >> EP-10
 Rêve de vitesse => Rêve de vitesse && S01 <> 2025 >> EP-24
 La luge et la fourmi => La luge et la fourmi && S01 <> 2025 >> EP-35
+Roméo et fourmi => Roméo et fourmi && S02 <> 2025 >> EP+0
+Hop-là! => Hop-là! && S02 <> 2025 >> EP+0
+Bonus - La nuit des mandibules => Bonus - La nuit des mandibules && S02 <> 2025 >> EP+0
